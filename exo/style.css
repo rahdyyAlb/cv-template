@@ -1,0 +1,319 @@
+#cv {
+  position: relative;
+  width: 595px;
+  height: 930px;
+  background: linear-gradient(180deg, #27222f 0%, #2c8598 100%);
+} 
+p{
+  color:grey;
+}
+.black{
+  color:black;
+}
+h3 , h4{
+  color:#2c8598;
+}
+h2{
+  color:#ffffff;
+  text-transform: uppercase;
+  font-size: 17px;
+}
+.blanc{
+  color:#ffffff;
+}
+.Neon {
+  position: absolute;
+  width: 250px;
+  height: 919px;
+  left: 7px;
+  top: 5px;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 5px;
+}
+.Name {
+  position: absolute;
+  width: 205px;
+  height: 69px;
+  top: -50px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.fa-solid, .fas{
+    margin-right: 10px;
+}
+.nametxt {
+  position: absolute;
+  width: 205px;
+  height: 45px;
+  left: 29px;
+  top: 22px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 45px;
+}
+.ux{
+    position: absolute;
+    width: 110px;
+    height: 17px;
+    left: 77px;
+    top: 85px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 17px;
+}
+#about {
+  position: absolute;
+  width: 205px;
+  height: 69px;
+  left: 29px;
+  top: 22px;
+}
+.rectangle4 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 250px;
+  height: 200px;
+  top: 171px;
+  background: rgba(255, 255, 255, 0.2);
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+}
+.rectangle5 {
+    position: absolute;
+    width: 230px;
+  height: 40px;
+  left: 11px;
+  top: 401px;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 50px;
+}
+.rectangle5txt {
+  position: absolute;
+  height: 16px;
+  left: 10px;
+  top:-4px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 16px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.rectangle6 {
+  position: absolute;
+  width: 230px;
+  height: 40px;
+  left: 11px;
+  top: 450px;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 50px;
+}
+.rectangle6txt {
+  position: absolute;
+  height: 16px;
+  left: 10px;
+top:-4px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.rectangle7 {
+    position: absolute;
+    width: 230px;
+    height: 40px;
+    left: 11px;
+    top: 500px;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 50px;
+}
+.rectangle7txt {
+    position: absolute;
+    height: 16px;
+    left: 10px;
+  top:-4px;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #ffffff;
+  
+}
+.rectangle8 {
+    position: absolute;
+    width: 230px;
+    height: 40px;
+    left: 11px;
+    top: 549px;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 50px;
+}
+.rectangle8txt {
+    position: absolute;
+    height: 16px;
+    left: 10px;
+  top:-4px;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #ffffff;
+  
+}
+.ellipse {
+  box-sizing: border-box;
+  position: absolute;
+  width: 130px;
+  height: 130px;
+  left: 35px;
+  top: 76px;
+  background: #ffffff;
+  border: 1.5px solid #ffffff;
+  border-radius: 50%;
+}
+.aboutxt{
+    font-size: 16px;
+    position: absolute;
+    top: 80px;
+    left: 8px;
+    color:black;
+
+}
+.about {
+  position: absolute;
+  top: 50px;
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 18px;
+  text-align: center;
+  color: #ffffff;
+
+}
+.contact {
+  width: 231px;
+  height: 211px;
+  left: 16px;
+  top: 401px;
+}
+
+.lang{
+    position: absolute;
+    top: 592px;
+    left: 10px;
+    color: white;
+}
+.slide {
+  color:black;
+  position: absolute;
+  width: 328px;
+  height: 919px;
+  left: 263px;
+  top: 5px;
+  background: #ffffff;
+  border-radius: 5px;
+  font-size: 13px;
+}
+.education {
+  top: 10px;
+  position: absolute;
+  width: 286px;
+  height: 320px;
+  left: 10px;
+}
+.experience {
+  position: absolute;
+  width: 286px;
+  height: 227px;
+  left: 10px;
+  top: 320px;
+}
+.skills {
+  position: absolute;
+  width: 286px;
+  height: 194px;
+  left: 10px;
+  top: 562px;
+}
+.hobbies {
+  position: absolute;
+  width: 286px;
+  left: 10px;
+  top: 770px;
+}
+.lang3{
+  display:flex;
+  align-items: center;
+}
+.lang2{
+  background: white;
+  box-sizing: border-box;
+  width: 22px;
+  height: 22px;
+  border-radius: 99%;
+  border: 1px solid rgb(252, 249, 249);
+  margin:3px;
+}
+.langvide{
+  box-sizing: border-box;
+width: 22px;
+height: 22px;
+border-radius: 99%;
+border: 1px solid rgb(252, 249, 249);
+margin:3px;
+}
+.blue{
+  display: flex;
+  padding: 0 1rem;
+  width: 10rem;
+  height: 40px;
+  top: 549px;
+  background: #2c8598;
+  border-radius: 50px;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.ligne{
+  background-color: #2c8598;
+  height: 2px;
+  width: 15rem;
+  align-self: center;
+
+}
+.hobbislogo{
+  display: flex;
+  justify-content: space-between;
+  justify-items: center;
+  font-size: 12px;
+  margin-top: 25px;
+}
+.hobbislogo i{
+  font-size: 25px;
+}
+.hobbislogo p{
+  display: flex;
+flex-direction: column;
+align-items: center;
+color: grey;
+}
+
+.aline {
+  display: flex;
+}
+.img{
+  width: 270PX;
+}
+.blanc{
+  width: 79px;
+}
